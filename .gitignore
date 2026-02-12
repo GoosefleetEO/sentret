@@ -1,2 +1,6 @@
 *_pycache_*
 secrets.ini
+config.ini
+venv
+*.log
+authl.sqlite

@@ -5,11 +5,11 @@ level=info
 [Database]
 file=authl.sqlite
 
-[Discord]
+[Stoat]
 
-; goon role ID from discord
+; goon role ID from Stoat
 roleID=1234567890
-; discord server ID
+; Stoat server ID
 guildID=1234567890
 ; mod-only botspam channel ID
 botspamID=1234567890
